@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "96978152381",
+    "project_id": "rikhshawmama",
+    "storage_bucket": "rikhshawmama.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96978152381:android:ac0bc45b2a2826937f40d4",
+        "android_client_info": {
+          "package_name": "com.example.rishawmama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96978152381-576f1ct3v987fk53vk8essvh3pm2o4ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSHKkPCVOlIgPeeO5V3VvWALftnt9iShQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96978152381-576f1ct3v987fk53vk8essvh3pm2o4ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
